@@ -1,0 +1,1 @@
+# Local-apsect-LC-KSVD
