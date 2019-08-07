@@ -1,6 +1,6 @@
 # Local-apsect-LC-KSVD
 
-The main idea is take strong correlation of SAR images in local aspect into consideration when learning dicitionary.
+The main idea is take strong correlation of SAR images in local aspect into consideration when learning dicitionary.  
 This algorithm can recognize target in SAR images in local apsect sectors.  
 
 The codes of lalc-ksvd are programed based on the lc-ksvd that are shared by Zhuolin Jiang [1].  
